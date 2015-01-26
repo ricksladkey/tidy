@@ -1,0 +1,6 @@
+*.sdf
+*.suo
+*.user
+tidy/build/msvc/Debug/
+tidy/build/msvc/Release/
+tidy/build/msvc/x64/
