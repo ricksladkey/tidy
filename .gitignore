@@ -4,3 +4,6 @@
 tidy/build/msvc/Debug/
 tidy/build/msvc/Release/
 tidy/build/msvc/x64/
+tidy/bin/
+tidy/test/testall.log
+tidy/test/tmp/
